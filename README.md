@@ -30,7 +30,7 @@ This project demonstrates how to:
 | 1 | `step_1.ipynb` | Smoothing + SRVF alignment |
 | 2+3 | `step_2+3.ipynb` | Functional PCA (jfPCA) and score extraction |
 | 4+5+6 | `step_4+5+6.ipynb` | Random Forest + PFI + efPC visualization |
-| Bonus | `step_bonus.ipynb` | Stability selection + tie-break + cumulation for PFI |
+| Improvement | `step_bonus.ipynb` | Stability selection + tie-break + cumulation for PFI |
 
 > 🔁 **Recommended:** Run in **Jupyter Notebook with R kernel** for full reproducibility and visualization.
 
